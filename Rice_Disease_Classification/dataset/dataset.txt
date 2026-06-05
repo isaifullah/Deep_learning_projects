@@ -1,0 +1,3 @@
+you can download dataset from the following link for this project.
+
+Dataset link: https://www.kaggle.com/competitions/paddy-disease-classification/data
