@@ -8,7 +8,7 @@ id,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProdu
 6,15692819,Ch'ang,593,France,Female,30.0,8,144772.69,1,1.0,0.0,29792.11,0
 7,15669611,Chukwuebuka,678,Spain,Male,37.0,1,138476.41,1,1.0,0.0,106851.6,0
 8,15691707,Manna,676,France,Male,43.0,4,0.0,2,1.0,0.0,142917.13,0
-9,15591721,Cattaneo,583,Germany,Male,40.0,4,81274.33,1,1.0,1.0,170843.07,0
+9,15591721,Cattaneo,583,Germany,Male,40.0,4,812741.33,1,1.0,1.0,170843.07,0
 10,15635097,Fokine,599,Germany,Female,27.0,6,161801.47,2,1.0,0.0,109184.24,0
 11,15674671,Chiu,687,Germany,Male,40.0,3,90432.92,1,1.0,0.0,1676.92,0
 12,15717962,Rossi,759,Spain,Male,71.0,9,0.0,1,1.0,1.0,93081.87,0
